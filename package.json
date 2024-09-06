@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "nuxt dev",
+    "start": "nuxt start",
     "build": "nuxt build",
     "dev": "nuxt dev",
     "predeploy": "npm run generate",
